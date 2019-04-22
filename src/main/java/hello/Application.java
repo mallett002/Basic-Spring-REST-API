@@ -11,6 +11,7 @@ public class Application {
     }
 }
 
+
 /*
 * @SpringBootApplication adds:
 * 1- @Configuration: Tags class as source of bean definitions for app context
